@@ -1,5 +1,5 @@
 import "./App.css";
-import UiForm from "./components/UiForm";
+import UiForm from "./UiForm";
 
 function App() {
   return (
